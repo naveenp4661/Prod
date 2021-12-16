@@ -5,3 +5,4 @@ echo $(whoami)
 Naveen='!@#'
 echo ${Naveen}
 echo "Fidth"
+echo "sixth"
